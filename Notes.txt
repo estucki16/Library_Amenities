@@ -1,0 +1,28 @@
+Important Factors for Libraries:
+
+(What Matters for Students' Use of Physical Library Space?)
+Noise Level
+Amount of Light
+Cleanliness
+Comfort of Furnishing
+Crowdedness
+Amount of Space
+
+
+Space to Study and move around
+Nap Space
+
+List of Libraries:
+https://publiclibraries.com/state/utah/
+
+Openstreetmap.org
+select area, export, open in QGIS
+how to edit data on libraries
+learn about tags/amenities/features/fields
+
+Mark Jackson - Civil engineering library specialist
+
+Box - es3331@byu.edu
+	open in word online
+
+
